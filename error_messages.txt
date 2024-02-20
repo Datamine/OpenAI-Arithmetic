@@ -1,8 +1,0 @@
-For the addition, 812300 sequence:
-Failure! invalid literal for int() with base 10: "9758 proi sorbgptvny ffttiwllpifuzmteshfvfyo d mrnpqg ts atmz qrtomuwlnmc 5897\n\ntgnc Wed, 30.Apr 2014 Borja Ormazábal likes it:\n\n\nBestúa is my favorite town in Spain, but what about Best16?\n\nI
-
-For the subtraction sequence:
-Failure! invalid literal for int() with base 10: '- everything we went through together, it\'s the longest I ever stayed in one place, the only real home I ever had. Brookline is just a rancid hive of maggots and mongrels - there\'s balls over there
-Failure! invalid literal for int() with base 10: '- Complete your application process by Jan 31st.You can Email your submission or send by Canada post or drop by with the report card before Jan 31st 2021. It is recommended to making an appointment t
-Failure! invalid literal for int() with base 10: '102378145959028926⟩'
-Failure! invalid literal for int() with base 10: '354476903020342748213394223660 mpz'
