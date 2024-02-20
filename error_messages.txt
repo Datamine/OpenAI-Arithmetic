@@ -1,6 +1,4 @@
 For the addition, 812300 sequence:
-
-Sequence Length: 12
 Failure! invalid literal for int() with base 10: "9758 proi sorbgptvny ffttiwllpifuzmteshfvfyo d mrnpqg ts atmz qrtomuwlnmc 5897\n\ntgnc Wed, 30.Apr 2014 Borja Ormazábal likes it:\n\n\nBestúa is my favorite town in Spain, but what about Best16?\n\nI
 
 For the subtraction sequence:
